@@ -19,12 +19,12 @@
 	<allow-navigation href="https://www.nhhanaromart.com/*" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <icon src="res/icon-android-ldpi-36-36.png" density="ldpi" />
-        <icon src="res/icon-android-mdpi-48-48.png" density="mdpi" />
-        <icon src="res/icon-android-hdpi-72-72.png" density="hdpi" />
-        <icon src="res/icon-android-xdpi-96-96.png" density="xhdpi" />
-        <icon src="res/icon-android-xxdpi-144-144.png" density="xxhdpi" />
-        <icon src="res/icon-android-xxxdpi-192-192.png" density="xxxhdpi" />                
+        <!-- <icon src="res/icon-android-ldpi.png" density="ldpi" /> -->
+        <icon src="res/icon-android-mdpi.png" density="mdpi" />
+        <icon src="res/icon-android-hdpi.png" density="hdpi" />
+        <icon src="res/icon-android-xhdpi.png" density="xhdpi" />
+        <icon src="res/icon-android-xxhdpi.png" density="xxhdpi" />
+        <icon src="res/icon-android-xxxhdpi.png" density="xxxhdpi" />                
     </platform>    
     <platform name="ios">
         <allow-intent href="itms:*" />
